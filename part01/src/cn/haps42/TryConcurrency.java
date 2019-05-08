@@ -18,7 +18,15 @@ public class TryConcurrency {
         enjoyMusic();
     }
 */
-
+    /**
+     * @Method 
+     * @Author haps42
+     * @Version  1.0
+     * @Description
+     
+     * @Return 
+     * @Date 2019/5/9 0:11
+     */
     public static void main(String[] args) {
         new Thread(){
             @Override
