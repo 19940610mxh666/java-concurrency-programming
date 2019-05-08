@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="57d50a20-4f97-4d10-9ae5-c36ecdb56d09" name="Default" comment="" />
+    <list default="true" id="57d50a20-4f97-4d10-9ae5-c36ecdb56d09" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../java-concurrency-programming/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../java-concurrency-programming/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/../java-concurrency-programming/part01/src/cn/haps42/观察线程.md" afterPath="$PROJECT_DIR$/../java-concurrency-programming/part01/src/cn/haps42/观察线程.md" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,7 +14,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="TryConcurrency.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="TryConcurrency.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/../java-concurrency-programming/part01/src/cn/haps42/TryConcurrency.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
@@ -21,11 +24,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="观察线程.md" pinned="false" current-in-tab="false">
+      <file leaf-file-name="观察线程.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../java-concurrency-programming/part01/src/cn/haps42/观察线程.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="540">
+              <first_editor relative-caret-position="531">
                 <caret line="36" column="16" lean-forward="false" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
                 <folding />
               </first_editor>
@@ -315,7 +318,7 @@
       <updated>1557308837065</updated>
       <workItem from="1557308838247" duration="1676000" />
       <workItem from="1557322518208" duration="1247000" />
-      <workItem from="1557331949205" duration="451000" />
+      <workItem from="1557331949205" duration="580000" />
     </task>
     <task id="LOCAL-00001" summary="123">
       <created>1557309008761</created>
@@ -338,11 +341,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557331970631</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="文档说明">
+      <created>1557332409859</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1557332409859</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3374000" />
+    <option name="totallyTimeSpent" value="3503000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1096" extended-state="0" />
@@ -454,22 +464,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../java-concurrency-programming/part01/src/cn/haps42/观察线程.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="540">
-            <caret line="36" column="16" lean-forward="false" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
-            <folding />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../java-concurrency-programming/part01/src/cn/haps42/TryConcurrency.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="28" column="7" lean-forward="true" selection-start-line="28" selection-start-column="7" selection-end-line="29" selection-end-column="44" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../java-concurrency-programming/part01/src/cn/haps42/观察线程.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="531">
+            <caret line="36" column="16" lean-forward="false" selection-start-line="36" selection-start-column="16" selection-end-line="36" selection-end-column="16" />
+            <folding />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
